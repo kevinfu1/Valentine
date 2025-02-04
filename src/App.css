@@ -1,0 +1,51 @@
+/* App.css */
+body {
+  background-color: #ffe6e6;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #ff1493;
+  font-size: 2.5rem;
+}
+
+.button-container {
+  position: relative;
+}
+
+button {
+  padding: 15px 30px;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.yes-button {
+  background-color: #ff4d4d;
+  color: white;
+}
+
+.no-button {
+  background-color: gray;
+  color: white;
+  position: absolute;
+}

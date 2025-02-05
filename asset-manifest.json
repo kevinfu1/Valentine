@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Valentine/static/css/main.6173e0df.css",
-    "main.js": "/Valentine/static/js/main.88e6efe0.js",
+    "main.css": "/Valentine/static/css/main.011fee79.css",
+    "main.js": "/Valentine/static/js/main.66b1187f.js",
     "static/js/488.b0d071f3.chunk.js": "/Valentine/static/js/488.b0d071f3.chunk.js",
+    "static/media/rizz.gif": "/Valentine/static/media/rizz.ebb77e056617cb71ec6d.gif",
+    "static/media/congratulations.mp3": "/Valentine/static/media/congratulations.9858bf73484912f65d27.mp3",
     "index.html": "/Valentine/index.html",
-    "main.6173e0df.css.map": "/Valentine/static/css/main.6173e0df.css.map",
-    "main.88e6efe0.js.map": "/Valentine/static/js/main.88e6efe0.js.map",
+    "main.011fee79.css.map": "/Valentine/static/css/main.011fee79.css.map",
+    "main.66b1187f.js.map": "/Valentine/static/js/main.66b1187f.js.map",
     "488.b0d071f3.chunk.js.map": "/Valentine/static/js/488.b0d071f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6173e0df.css",
-    "static/js/main.88e6efe0.js"
+    "static/css/main.011fee79.css",
+    "static/js/main.66b1187f.js"
   ]
 }
